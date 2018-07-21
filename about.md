@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Cloud Enthusiast based in Singapore
+Just me!
 
 ### Contact me
 
